@@ -1,0 +1,14 @@
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2.5rem;
+    }
+    .hero-section {
+        height: auto;
+        padding: 100px 0;
+        text-align: center;
+    }
+    .hero-img {
+        display: none;
+    }
+}
